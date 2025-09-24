@@ -116,6 +116,24 @@ python bot.py
 - Использует [Создатель коллажей](https://ash-code-nocode.github.io/CollageBotApp/) для обработки изображений
 - Вдохновлен экосистемой мини-приложений Telegram
 
+## 📷 Примеры работы
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="width: 33%; padding: 10px;">
+      <strong>Старт</strong><br>
+      <img src="https://github.com/Ash-code-noCode/collageBot/blob/main/photo_1_2025-09-24_15-49-15.jpg?raw=true" width="150">
+    </td>
+    <td align="center" style="width: 33%; padding: 10px;">
+      <strong>Сборка коллажа из 2х фото</strong><br>
+      <img src="https://github.com/Ash-code-noCode/collageBot/blob/main/photo_2_2025-09-24_15-49-15.jpg?raw=true" width="150">
+    </td>
+    <td align="center" style="width: 33%; padding: 10px;">
+      <strong>Сборка коллажа из 5х фото</strong><br>
+      <img src="https://github.com/Ash-code-noCode/collageBot/blob/main/photo_3_2025-09-24_15-49-15.jpg?raw=true" width="150">
+    </td>
+  </tr>
+</table>
 ---
 
 *Создано с ❤️ с использованием Python и Telegram Bot API*
